@@ -4,11 +4,7 @@ An interactive Rubik's Cube simulator built with React and Tailwind CSS. This pr
 
 ## Live Demo
 
-<<<<<<< Updated upstream
-You can try out the live demo here: [Rubik's Cube Simulator](https://icantbelieveitsnotbutter.github.io/rubiks-cube/)
-=======
 You can try out the live demo here: [Rubik's Cube Simulator](https://plotj.github.io/rubiks-cube/)
->>>>>>> Stashed changes
 
 ## Features
 
@@ -31,11 +27,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```
-<<<<<<< Updated upstream
-   git clone https://github.com/icantbelieveitsnotbutter/rubiks-cube.git
-=======
    git clone https://github.com/plotj/rubiks-cube.git
->>>>>>> Stashed changes
    cd rubiks-cube
    ```
 
@@ -77,16 +69,9 @@ This will build the app and push it to the `gh-pages` branch of your GitHub repo
 
 ## Contributing
 
-<<<<<<< Updated upstream
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/icantbelieveitsnotbutter/rubiks-cube/issues) if you want to contribute.
-=======
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/plotj/rubiks-cube/issues) if you want to contribute.
->>>>>>> Stashed changes
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
