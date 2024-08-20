@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rubiks-cube/static/css/main.0325a520.css",
-    "main.js": "/rubiks-cube/static/js/main.bc31bb3c.js",
-    "static/js/453.625cd490.chunk.js": "/rubiks-cube/static/js/453.625cd490.chunk.js",
-    "index.html": "/rubiks-cube/index.html",
-    "main.0325a520.css.map": "/rubiks-cube/static/css/main.0325a520.css.map",
-    "main.bc31bb3c.js.map": "/rubiks-cube/static/js/main.bc31bb3c.js.map",
-    "453.625cd490.chunk.js.map": "/rubiks-cube/static/js/453.625cd490.chunk.js.map"
+    "main.css": "/RubiksCube/static/css/main.0325a520.css",
+    "main.js": "/RubiksCube/static/js/main.bfc9a684.js",
+    "static/js/453.625cd490.chunk.js": "/RubiksCube/static/js/453.625cd490.chunk.js",
+    "index.html": "/RubiksCube/index.html",
+    "main.0325a520.css.map": "/RubiksCube/static/css/main.0325a520.css.map",
+    "main.bfc9a684.js.map": "/RubiksCube/static/js/main.bfc9a684.js.map",
+    "453.625cd490.chunk.js.map": "/RubiksCube/static/js/453.625cd490.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0325a520.css",
-    "static/js/main.bc31bb3c.js"
+    "static/js/main.bfc9a684.js"
   ]
 }
