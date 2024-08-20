@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rubiks-cube-simulator/static/css/main.0325a520.css",
-    "main.js": "/rubiks-cube-simulator/static/js/main.43d11f95.js",
-    "static/js/453.625cd490.chunk.js": "/rubiks-cube-simulator/static/js/453.625cd490.chunk.js",
-    "index.html": "/rubiks-cube-simulator/index.html",
-    "main.0325a520.css.map": "/rubiks-cube-simulator/static/css/main.0325a520.css.map",
-    "main.43d11f95.js.map": "/rubiks-cube-simulator/static/js/main.43d11f95.js.map",
-    "453.625cd490.chunk.js.map": "/rubiks-cube-simulator/static/js/453.625cd490.chunk.js.map"
+    "main.css": "/rubiks-cube/static/css/main.0325a520.css",
+    "main.js": "/rubiks-cube/static/js/main.bc31bb3c.js",
+    "static/js/453.625cd490.chunk.js": "/rubiks-cube/static/js/453.625cd490.chunk.js",
+    "index.html": "/rubiks-cube/index.html",
+    "main.0325a520.css.map": "/rubiks-cube/static/css/main.0325a520.css.map",
+    "main.bc31bb3c.js.map": "/rubiks-cube/static/js/main.bc31bb3c.js.map",
+    "453.625cd490.chunk.js.map": "/rubiks-cube/static/js/453.625cd490.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0325a520.css",
-    "static/js/main.43d11f95.js"
+    "static/js/main.bc31bb3c.js"
   ]
 }
