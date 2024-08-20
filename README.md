@@ -75,6 +75,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contact
-
-Created by [@icantbelieveitsnotbutter](https://github.com/icantbelieveitsnotbutter) - feel free to contact me!
