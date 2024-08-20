@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Rubik's Cube Simulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive Rubik's Cube simulator built with React and Tailwind CSS. This project allows users to manipulate a 3D Rubik's Cube, change viewing angles, scramble the cube, and solve it instantly.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+You can try out the live demo here: [Rubik's Cube Simulator](https://icantbelieveitsnotbutter.github.io/rubiks-cube/)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 3D Rubik's Cube visualization
+- Interactive cube rotation
+- Face rotation controls (U, D, F, B, L, R)
+- Cube scrambling
+- Instant solving
+- Multiple viewing angles (Front, Back, Left, Right, Top, Bottom)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- React
+- Tailwind CSS
+- GitHub Pages (for deployment)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Local Development
 
-### `npm run build`
+To set up this project locally, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+   ```
+   git clone https://github.com/icantbelieveitsnotbutter/rubiks-cube.git
+   cd rubiks-cube
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies:
+   ```
+   npm install
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Start the development server:
+   ```
+   npm start
+   ```
 
-### `npm run eject`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Building and Deployment
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To build the project for production, run:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm run build
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To deploy to GitHub Pages, run:
 
-## Learn More
+```
+npm run deploy
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This will build the app and push it to the `gh-pages` branch of your GitHub repository.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+- Use the U, D, F, B, L, R buttons to rotate the corresponding faces of the cube.
+- Click and drag to rotate the entire cube.
+- Use the view buttons to quickly change to preset viewing angles.
+- Click "Scramble" to randomly shuffle the cube.
+- Click "Solve" to instantly solve the cube.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contributing
 
-### Analyzing the Bundle Size
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/icantbelieveitsnotbutter/rubiks-cube/issues) if you want to contribute.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
 
-### Making a Progressive Web App
+This project is open source and available under the [MIT License](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contact
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Created by [@icantbelieveitsnotbutter](https://github.com/icantbelieveitsnotbutter) - feel free to contact me!
